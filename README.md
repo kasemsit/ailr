@@ -1,10 +1,3 @@
-<style>
-table {
-    width:100%;
-}
-</style>
-
-
 # Artificial Intelligence Lecture Collections
 
 Fantastic lists of lecture collections  ==> [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
