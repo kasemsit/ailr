@@ -1,4 +1,4 @@
-# Artificial Intelligence Learning Resources
+# Artificial intelligence learning resources
 
 ### Table of Contents  
 * [Deep learning](#dl)  
@@ -71,6 +71,7 @@
 | Repository | Description  |
 | ------ | ------- |
 | [Concrete NLP tutorial](https://github.com/hundredblocks/concrete_NLP_tutorial) |  NLP Workshop for ODSC 2017  |  
+| [thai2fit](https://github.com/cstorm125/thai2fit) | Thai ULMFit Language Modeling |
 
 <a name="ai"></a>
 ## Artificial Intelligence 
