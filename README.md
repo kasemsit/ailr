@@ -43,9 +43,9 @@
 
 #### Video lectures
 | &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
-| ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
-| CS231n |  Convolutional Neural Networks for Visual Recognition | <nobr>Winters, 2016</nobr>  | Fei-Fei Li, Andrej Karpathy, Justin Johnson | Stanford  | [Homepage](http://cs231n.stanford.edu/2016/) [Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) |
+| ------ | ------ | ------- | ---------- | --------- | ------- | -------|
 | CS231n | Convolutional Neural Networks for Visual Recognition | Spring 2017   | Fei-Fei Li, Justin Johnson, Serena Yeung 	     | Stanford  | [Homepage](http://cs231n.stanford.edu/2017/) [Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
+|  |   | Winters 2016 | Fei-Fei Li, Andrej Karpathy, Justin Johnson | Stanford  | [Homepage](http://cs231n.stanford.edu/2016/) [Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) |
 
 #### Repositories
 | Repository | Description  |
@@ -57,8 +57,9 @@
 
 #### Video lectures
 | &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
-| ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
-| CS224n | Natural Language Processing with Deep Learning    | Winter 2017 |  Chris Manning, Richard Socher  | Stanford | [Homepage](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/) [Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) |
+| ------ | ------ | ------- | ---------- | --------- | ------- | -------|
+| CS224n | Natural Language Processing with Deep Learning    | Winter 2019 |  Chris Manning  | Stanford | [Homepage](http://web.stanford.edu/class/cs224n/index.html) [Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
+| |    | Winter 2017 |  Chris Manning, Richard Socher  | Stanford | [Homepage](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/) [Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) |
 | 2110594 | Natural language processing | 2019| Ekapol Chuangsuwanich | Chula   | [Homepage](https://github.com/ekapolc/nlp_2019) 
 | 2110594 | Natural language processing | 2018 | Ekapol Chuangsuwanich | Chula   | [Homepage](https://github.com/ekapolc/nlp_course) [Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) |
 | 2110432 | Automatic speech recognition | 2018 | Ekapol Chuangsuwanich | Chula | [Homepage](https://github.com/ekapolc/ASR_course) [Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NHospFLG9vGrlz2TXjlRCO) |
