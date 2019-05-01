@@ -1,7 +1,16 @@
 # Artificial Intelligence Lecture Collections
 
+##### Table of Contents  
+[Deep learning](#dl)  
+[Unsupervised learning](#ul)  
+[Reinforcement learning](#rl)  
+[Computer Vision](#cv)  
+[Natural language processing](#nlp)  
+[Artificial intelligence](#ai)
+
 Fantastic lists of lecture collections  ==> [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
 
+<a name="dl"/>
 ## Deep learning
 | &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
 | ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
@@ -11,12 +20,28 @@ Fantastic lists of lecture collections  ==> [Deep Learning Drizzle](https://gith
 | 6.S191 | Introduction to Deep Learning | 2019 | Alexander Amini, Ava Soleimany | MIT  | [Homepage](http://introtodeeplearning.com/) | TensorFlow |
 | - | MIT Deep learning | 2019 | Lex Fridman | MIT | [Homepage](https://deeplearning.mit.edu/) [Playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) |
 
+<a name="ul"/>
+## Unsupervised learning
+| &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
+| ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
+| CS294-158  | Deep Unsupervised Learning  | <nobr>Spring 2019</nobr>| Pieter Abbeel, Peter Chen, Jonathan Ho, Aravind Srinivas| Berkeley | [Homepage](https://sites.google.com/view/berkeley-cs294-158-sp19/home) | |
+
+<a name="rl"/>
+## Reinforcement learning
+| &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
+| ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
+|  | Deep RL Bootcamp | <nobr>26-27 August 2017</nobr>| | Berkeley | [Homepage](https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR271_EOPBtqmTicEzO72ziJ1coOBkpFfT5G327ziM5WhVw45HOsgsqfgwQ) | |
+| <nobr>CS294-112</nobr> | Deep Reinforcement Learning  | Fall 2018 | Sergey Levine | Berkeley      | [Homepage](http://rail.eecs.berkeley.edu/deeprlcourse/) [Playlist](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) |
+| COMPGI22 | Advanced deep learning and reinforcement learning   | 2018 | &nbsp;  | UCL | [Slides](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning) [Playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | TensorFlow |
+
+<a name="cv"/>
 ## Computer vision
 | &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
 | ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
 | CS231n |  Convolutional Neural Networks for Visual Recognition | <nobr>Winters, 2016</nobr>  | Fei-Fei Li, Andrej Karpathy, Justin Johnson | Stanford  | [Homepage](http://cs231n.stanford.edu/2016/) [Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) |
 | CS231n | Convolutional Neural Networks for Visual Recognition | Spring 2017   | Fei-Fei Li, Justin Johnson, Serena Yeung 	     | Stanford  | [Homepage](http://cs231n.stanford.edu/2017/) [Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
 
+<a name="nlp"/>
 ## Natural language processing
 | &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
 | ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
@@ -25,19 +50,7 @@ Fantastic lists of lecture collections  ==> [Deep Learning Drizzle](https://gith
 | 2110594 | Natural language processing | 2018 | Ekapol Chuangsuwanich | Chula   | [Homepage](https://github.com/ekapolc/nlp_course) [Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) |
 | 2110432 | Automatic speech recognition | 2018 | Ekapol Chuangsuwanich | Chula | [Homepage](https://github.com/ekapolc/ASR_course) [Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NHospFLG9vGrlz2TXjlRCO) |
 
-## Unsupervised learning
-| &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
-| ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
-| CS294-158  | Deep Unsupervised Learning  | <nobr>Spring 2019</nobr>| | Berkeley | [Homepage](https://sites.google.com/view/berkeley-cs294-158-sp19/home) | |
-
-## Reinforcement learning
-| &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
-| ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
-|  | Deep RL Bootcamp | <nobr>26-27 August 2017</nobr>| | Berkeley | [Homepage](https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR271_EOPBtqmTicEzO72ziJ1coOBkpFfT5G327ziM5WhVw45HOsgsqfgwQ) | |
-| <nobr>CS294-112</nobr> | Deep Reinforcement Learning  | Fall 2018 | Sergey Levine | Berkeley      | [Homepage](http://rail.eecs.berkeley.edu/deeprlcourse/) [Playlist](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) |
-| COMPGI22 | Advanced deep learning and reinforcement learning   | 2018 | &nbsp;  | UCL | [Slides](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning) [Playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | TensorFlow |
-
-
+<a name="ai"/>
 ## Artificial Intelligence 
 | &nbsp; | Course |   Year  | Instructor | Provider  | Links   |
 | ------ | ------ | ------- | ---------- |:---------:|:------- |
