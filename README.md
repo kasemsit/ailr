@@ -32,7 +32,8 @@
 <a name="rl"></a>
 ## Reinforcement learning
 | &nbsp; | Course |   Year  | Instructor | Provider  | Links   |  Tools |
-| ------ | ------ | ------- | ---------- |:---------:|:------- | -------|
+| ------ | ------ | ------- | ---------- | --------- |:------- | -------|
+| CS234 | Reinforcement Learning  | Winter 2019 |  Emma Brunskill | Stanford     | [Homepage](http://web.stanford.edu/class/cs234/index.html) [Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u) |
 | <nobr>CS294-112</nobr> | Deep Reinforcement Learning  | Fall 2018 | Sergey Levine | Berkeley      | [Homepage](http://rail.eecs.berkeley.edu/deeprlcourse/) [Playlist](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37) |
 | COMPGI22 | Advanced deep learning and reinforcement learning   | 2018 | &nbsp;  | UCL | [Slides](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning) [Playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | TensorFlow |
 |  -  | Deep RL Bootcamp | 26-27 August 2017 | &nbsp;  | Berkeley | [Homepage](https://sites.google.com/view/deep-rl-bootcamp/lectures?fbclid=IwAR271_EOPBtqmTicEzO72ziJ1coOBkpFfT5G327ziM5WhVw45HOsgsqfgwQ) | |
