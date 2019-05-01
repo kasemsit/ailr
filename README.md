@@ -61,7 +61,7 @@
 | CS224n | Natural Language Processing with Deep Learning    | Winter 2019 |  Chris Manning  | Stanford | [Homepage](http://web.stanford.edu/class/cs224n/index.html) [Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
 | |    | Winter 2017 |  Chris Manning, Richard Socher  | Stanford | [Homepage](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/) [Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) |
 | 2110594 | Natural language processing | 2019| Ekapol Chuangsuwanich | Chula   | [Homepage](https://github.com/ekapolc/nlp_2019) 
-| 2110594 | Natural language processing | 2018 | Ekapol Chuangsuwanich | Chula   | [Homepage](https://github.com/ekapolc/nlp_course) [Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) |
+|  |  | 2018 | Ekapol Chuangsuwanich | Chula   | [Homepage](https://github.com/ekapolc/nlp_course) [Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) |
 | 2110432 | Automatic speech recognition | 2018 | Ekapol Chuangsuwanich | Chula | [Homepage](https://github.com/ekapolc/ASR_course) [Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NHospFLG9vGrlz2TXjlRCO) |
 
 #### Lecture notes
