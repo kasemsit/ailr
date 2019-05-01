@@ -1,4 +1,4 @@
-# Artificial Intelligence Rearning Lesources
+# Artificial Intelligence Learning Resources
 
 ### Table of Contents  
 * [Deep learning](#dl)  
