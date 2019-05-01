@@ -22,6 +22,7 @@
 | **10-707** Deep learning | Fall 2017 | Ruslan Salakhutdinov   | CMU | [Playlist](https://www.youtube.com/playlist?list=PLpIxOj-HnDsOSL__Buy7_UEVQkyfhHapa) |
 | **6.S191** Introduction to Deep Learning | 2019 | Alexander Amini, Ava Soleimany | MIT  | [Homepage](http://introtodeeplearning.com/) | TensorFlow |
 | MIT Deep learning | 2019 | Lex Fridman | MIT | [Homepage](https://deeplearning.mit.edu/) [Playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) |
+| **CS230** Deep learning | Autumn 2018 | Stanford | | [Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 
 <a name="ul"></a>
 ## Unsupervised learning
