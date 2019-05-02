@@ -93,7 +93,7 @@
 ### Compilations
 | Repository | Description |
 | ---------- | ----------- |
-| [paperswithcode.com](https://paperswithcode.com/) | Articles with source code |
+| [paperswithcode.com](https://paperswithcode.com/) | Articles with source code <br>* [Browse the state-of-the-art](https://paperswithcode.com/sota?fbclid=IwAR2D0P13FF1n58M02LfG9L7P-DkcOWwaygi0AybRegV90SxUUIy8e8fN6cU) |
 | [arXivTimes](https://github.com/arXivTimes/arXivTimes)|  Machine learning research articles   |  
 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)| Latex codes for making neural net diagrams   |  
 
