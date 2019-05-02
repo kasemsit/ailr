@@ -1,7 +1,7 @@
 # Artificial Intelligence Learning Resources
 
 ### Table of Contents  
-1. [Lectures & tutorials](#lectures-tutorials)
+1. [Lectures & tutorials](#lectures--tutorials)
   * [Great collections](#great-collections)
   * [Introduction to deep learning](#introduction-to-deep-learning)  
   * [Unsupervised learning](#unsupervised-learning)  
