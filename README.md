@@ -24,6 +24,8 @@
 * [Deep Learning Drizzle](https://github.com/kmario23/deep-learning-drizzle)
 
 ### Introduction to deep learning
+
+#### Video lectures
 | Provider | Course |   Year  | Instructor |  Links   |  Tools |
 | ------ | ------- | ---------- | --------- | ------- | ------ |
 | CMU    | **11-785** Introduction to Deep Learning | Spring 2019| Bhiksha Raj | [Homepage](http://deeplearning.cs.cmu.edu), [Channel](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA), [Playlist](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA) | |
@@ -33,6 +35,11 @@
 | &nbsp;| MIT Deep learning | 2019 | Lex Fridman | [Homepage](https://deeplearning.mit.edu/) [Playlist](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) |
 | Stanford | **CS230** Deep learning | Autumn 2018 | Andrew Ng, Kian Katanforoosh | [Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
 | University of Toronto | **CSC321** | Intro to Neural Networks and Machine Learning | Winter 2018 | [Homepage](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/) | |
+
+#### Lecture notes
+| Provider | Course |   Year  | Instructor |  Links   |  Tools |
+| ------ | ------- | ---------- | --------- | ------- | ------ |
+| ULiège   | **INFO8010** Deep Learning | Spring 2019| [Gilles Louppe](https://glouppe.github.io) | [Git](https://github.com/glouppe/info8010-deep-learning) | |
 
 ### Unsupervised learning
 | Provider | Course |  Year  | Instructor  |  Links  |  Tools |
