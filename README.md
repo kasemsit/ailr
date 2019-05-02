@@ -1,7 +1,7 @@
 # Artificial Intelligence Learning Resources
 
 ### Table of Contents  
-1. [Lectures & tutorials](#lectures--tutorials)
+* [Lectures & tutorials](#lectures--tutorials)
   * [Great collections](#great-collections)
   * [Introduction to deep learning](#introduction-to-deep-learning)  
   * [Unsupervised learning](#unsupervised-learning)  
@@ -10,11 +10,11 @@
   * [Natural language processing](#natural-language-processing)  
   * [Artificial intelligence](#artificial-intelligence)
   * [Other topics](#other-topics)
-2. [Research articles](#research-articles)
+* [Research articles](#research-articles)
   * [Compilations](#compilations)
   * [Survey](#survey)
   * [Selected articles](#selected-articles)
-3. [Other resources](#other-resources)
+* [Other resources](#other-resources)
   * [Thai resources](#thai-resources)
   * [Python tutorials](#python-tutorials)
   * [Who to follow](#who-to-follow)
