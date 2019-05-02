@@ -44,7 +44,8 @@
 #### Books
 | Name |   Year  | Author     |  Links   |  
 | ---- | ------- | ---------- | -------- |
-|  Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (2nd edition) | 2019 | Aurélien Géron  | [Companion codes](https://github.com/ageron/handson-ml2) | 
+|  [Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (2nd edition)](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) | 2019 | Aurélien Géron  | [Codes](https://github.com/ageron/handson-ml2) | 
+| [Deep learning](https://www.deeplearningbook.org/) | 2016 | Ian Goodfellow, Yoshua Bengio, Aaron Courville | &nbsp; |
 
 
 ### Unsupervised learning
