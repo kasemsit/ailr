@@ -41,6 +41,12 @@
 | ------ | ------- | ---------- | --------- | ------- | ------ |
 | ULiège   | **INFO8010** Deep Learning | Spring 2019| [Gilles Louppe](https://glouppe.github.io) | [Git](https://github.com/glouppe/info8010-deep-learning) | |
 
+#### Books
+| Name |   Year  | Author     |  Links   |  
+| ---- | ------- | ---------- | -------- |
+|  Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow (2nd edition) | 2019 | Aurélien Géron  | [Companion codes](https://github.com/ageron/handson-ml2) | 
+
+
 ### Unsupervised learning
 | Provider | Course |  Year  | Instructor  |  Links  |  Tools |
 | -------- | ------ | ------ | ----------- | ------- | ------ | 
