@@ -11,11 +11,9 @@
   * [Artificial intelligence](#artificial-intelligence)
   * [Other topics](#other-topics)
 * [Research articles](#research-articles)
-  * [Compilations](#compilations)
-  * [Survey](#survey)
+  * [Compilations](#compilations)  
   * [Selected articles](#selected-articles)
 * [Other resources](#other-resources)
-  * [Thai resources](#thai-resources)
   * [Python tutorials](#python-tutorials)
   * [Who to follow](#who-to-follow)
 
@@ -62,32 +60,10 @@
 | UCL      | **COMPGI22** Advanced deep learning and reinforcement learning   | 2018 | &nbsp; | [Slides](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning) [Playlist](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs) | TensorFlow |
 
 ### Computer vision
-#### Video lectures
-| Provider| Course |   Year  | Instructor |   Links   |  Tools  |
-| ------- | ------ | ------- | ---------- | --------- | ------- |
-| Stanford | **CS231n** Convolutional Neural Networks for Visual Recognition | Spring 2017   | Fei-Fei Li, Justin Johnson, Serena Yeung  | [Homepage](http://cs231n.stanford.edu/2017/) [Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) |
-| &nbsp; | &nbsp;  | Winters 2016 | Fei-Fei Li, Andrej Karpathy, Justin Johnson | [Homepage](http://cs231n.stanford.edu/2016/) [Playlist](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) |
+* [Link](cv.md)
 
-### Natural language processing
-#### Video lectures
-| Provider| Course |   Year  | Instructor |   Links   |  Tools  |
-| ------- | ------ | ------- | ---------- | --------- | ------- |
-| Stanford | **CS224n** Natural Language Processing with Deep Learning    | Winter 2019 |  Chris Manning  | [Homepage](http://web.stanford.edu/class/cs224n/index.html) [Playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z) |
-|  &nbsp;  |  &nbsp; | Winter 2017 |  Chris Manning, Richard Socher  | [Homepage](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/) [Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6) |
-| Chula    | **2110594** Natural language processing | 2019| Ekapol Chuangsuwanich    | [Homepage](https://github.com/ekapolc/nlp_2019) 
-| &nbsp;   | &nbsp;  | 2018 |  Ekapol Chuangsuwanich | [Homepage](https://github.com/ekapolc/nlp_course) [Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NP11DsVK9XcN54rvfGBb96) |
-| &nbsp;   | **2110432** Automatic speech recognition | 2018 | Ekapol Chuangsuwanich |  [Homepage](https://github.com/ekapolc/ASR_course) [Playlist](https://www.youtube.com/playlist?list=PLcBOyD1N1T-NHospFLG9vGrlz2TXjlRCO) |
-
-#### Lecture notes
-| Provider| Course |   Year  | Instructor |   Links   | 
-| ------- | ------ | ------- | ---------- | --------- | 
-| **CS4650/7650** Natural Language Understanding    |  &nbsp; |  Jacob Eisenstein  | Georgia Tech | [Git](https://github.com/jacobeisenstein/gt-nlp-class) |
-
-#### Tutorials
-| Repository | Description  |
-| ------ | ------- |
-| [Concrete NLP tutorial](https://github.com/hundredblocks/concrete_NLP_tutorial) |  NLP Workshop for ODSC 2017  |  
-
+### Natural language processing 
+* [Link](nlp.md)
 
 ### Artificial Intelligence 
 | Provider| Course |   Year  | Instructor |   Links   |  Tools  |
@@ -111,24 +87,12 @@
 | [arXivTimes](https://github.com/arXivTimes/arXivTimes)|  Machine learning research articles   |  
 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)| Latex codes for making neural net diagrams   |  
 
-### Survey
-| Year | Article  | Authors |
-| ---- | -------- | ------- |
-| 2018 | [Deep Learning for Generic Object Detection: A Survey](https://arxiv.org/abs/1809.02165) | <small>Li Liu, Wanli Ouyang, Xiaogang Wang, Paul Fieguth, Xinwang Liu, Matti Pietikäinen</small> |
 
 ### Selected articles
 | Year | Article  | Authors |
 | ---- | -------- | ------- |
 | &nbsp; | &nbsp; | &nbsp;  | 
 
-
-## Other resources
-### Thai resources
-| Repository | Description |
-| ---------- | ----------- |
-| [Thai-MINST](https://github.com/nextwaverr/Thai-MNIST) |  Thai digit handwriting dataset  |  
-| [PyThaiNLP](https://pythainlp.github.io/) | Thai natural language processing library
-| [thai2fit](https://github.com/cstorm125/thai2fit) | Thai ULMFit Language Modeling |
 
 ### Python tutorials
 | Repository | Description |
