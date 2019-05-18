@@ -30,4 +30,4 @@
 | ---------- | ----------- |
 | [PyThaiNLP](https://pythainlp.github.io/) | Thai natural language processing library
 | [thai2fit](https://github.com/cstorm125/thai2fit) | Thai ULMFit Language Modeling |
-
+| [NECTEC](https://www.nectec.or.th/corpus/index.php?league=tp5&fbclid=IwAR3T2WdktXNuxA8b35ahpp-lRBMV0XsAdKLO6eHa8c3W3iLIppDlCvyng2g) | คลังข้อมูลถามตอบภาษาไทย
