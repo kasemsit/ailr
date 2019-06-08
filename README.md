@@ -87,17 +87,20 @@
 | [arXivTimes](https://github.com/arXivTimes/arXivTimes)|  Machine learning research articles   |  
 | [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)| Latex codes for making neural net diagrams   |  
 
-
 ### Selected articles
 | Year | Article  | Authors |
 | ---- | -------- | ------- |
 | &nbsp; | &nbsp; | &nbsp;  | 
 
 
-### Python tutorials
-| Repository | Description |
-| ---------- | ----------- |
-| [Python/Numpy](http://cs231n.github.io/python-numpy-tutorial/) | Python/Numpy tutorial from CS231n Convolutional Neural Networks for Visual Recognition  | 
+### Tutorials
+| Type | Sources | 
+| ---- | ---------- | 
+| Git | [A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)
+| Git | [Material used for Deep Learning related workshops for Machine Learning Tokyo (MLT)](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) |
+| Git | [TensorFlow Tutorial - used by Nvidia](https://github.com/alrojo/tensorflow-tutorial) | 
+| Class | [Python/Numpy tutorial from CS231n Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/python-numpy-tutorial/) | 
+| Article | [The Matrix Calculus You Need For Deep Learning](https://arxiv.org/abs/1802.01528) | 
 
 ### Who to follow
 | Who | Description |
