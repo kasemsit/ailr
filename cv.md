@@ -16,5 +16,6 @@
 ### Thai resources
 | Repository | Description |
 | ---------- | ----------- |
-| [Thai-MINST](https://github.com/nextwaverr/Thai-MNIST) |  Thai digit handwriting dataset  |  
+| [Thai-MNIST](https://github.com/nextwaverr/Thai-MNIST) |  Thai digit handwriting dataset  |  
+| [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist) | Benchmark dataset |
 
